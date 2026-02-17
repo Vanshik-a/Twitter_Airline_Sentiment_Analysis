@@ -19,8 +19,6 @@ This project demonstrates a complete Machine Learning pipeline including:
 - Model Evaluation
 - Real-time Prediction Function
 
----
-
 ## 📂 Dataset Information
 
 The dataset contains airline tweets with the following key columns:
@@ -33,8 +31,6 @@ The dataset contains airline tweets with the following key columns:
 
 For faster execution, 1000 rows were used during training.
 
----
-
 ## 🛠 Technologies Used
 
 - Python  
@@ -44,8 +40,6 @@ For faster execution, 1000 rows were used during training.
 - NLTK (Natural Language Processing)  
 - Scikit-learn (Machine Learning)  
 - WordCloud  
-
----
 
 ## 🔍 Exploratory Data Analysis (EDA)
 
@@ -58,8 +52,6 @@ The following visualizations were created:
 - ☁️ WordCloud for Positive and Negative Tweets
 
 EDA helps understand patterns before model building.
-
----
 
 ## 🧹 Text Preprocessing Steps
 
@@ -80,8 +72,6 @@ The cleaning pipeline includes:
 
 This improves model performance significantly.
 
----
-
 ## 🧠 Feature Engineering
 
 The text data is converted into numerical format using:
@@ -91,8 +81,6 @@ The text data is converted into numerical format using:
 TF-IDF (Term Frequency – Inverse Document Frequency) assigns importance to words based on how relevant they are within the dataset.
 
 This allows the machine learning model to understand textual patterns.
-
----
 
 ## 🤖 Model Used
 
@@ -106,8 +94,6 @@ The dataset was split into:
 - 80% Training Data
 - 20% Testing Data
 
----
-
 ## 📊 Model Evaluation
 
 Evaluation metrics used:
@@ -120,7 +106,7 @@ Evaluation metrics used:
 
 The model achieved approximately:
 Test Accuracy: 67.0 %
----
+-
 
 ## 🔎 Example Predictions
 "Flight delayed for 3 hours again!" → Negative
