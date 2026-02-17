@@ -119,10 +119,7 @@ Evaluation metrics used:
 - Confusion Matrix
 
 The model achieved approximately:
-
-**Test Accuracy: ~XX%**  
-(Update this with your actual result)
-
+Test Accuracy: 67.0 %
 ---
 
 ## 🔎 Example Predictions
